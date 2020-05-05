@@ -1,2 +1,2 @@
 developer a : line 1
-merging
+a merging to b
